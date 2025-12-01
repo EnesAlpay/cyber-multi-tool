@@ -1,0 +1,7 @@
+123456
+password
+toor
+admin
+root
+test1234
+qwerty
