@@ -16,7 +16,7 @@ Tüm modüller **eğitim ve lab amaçlıdır**, gerçek sistemlerde saldırı am
 - JSON loglama ve renkli CLI arayüzü
 
 ## Kurulum
-```bash
+
 git clone https://github.com/EnesAlpay/CyberToolkit.git
 cd CyberToolkit
 pip install -r requirements.txt
