@@ -18,9 +18,13 @@ Tüm modüller **eğitim ve lab amaçlıdır**, gerçek sistemlerde saldırı am
 ## Kurulum
 
 git clone https://github.com/EnesAlpay/CyberToolkit.git
+
 cd CyberToolkit
+
 pip install -r requirements.txt
+
 Kullanım
+
 python toolkit.py
 
 
